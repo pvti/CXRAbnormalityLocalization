@@ -1,5 +1,5 @@
-# CXRDet
-> [**Chest X-ray abnormalities detection using convolutional neural network**](https://drive.google.com/drive/folders/1yylqLDt59O3vxGkRRzVQaaS0zut6Cdg9?usp=sharing),            
+# CXRAbnormalityLocalization
+> [**Chest X-ray abnormalities localization using convolutional neural network**](https://drive.google.com/drive/folders/1yylqLDt59O3vxGkRRzVQaaS0zut6Cdg9?usp=sharing),            
 > Van-Tien Pham, Minh-Cong Tran, Stanley Zheng, Tri-Minh Vu, Shantanu Nath;        
 
 ![](readme/proposedFramework.png)
@@ -41,9 +41,9 @@ Please see [DATASET_ZOO.md](readme/DATASET_ZOO.md) for detailed description of t
 
 ## Getting Started
 
-Follow the aforementioned instructions to install CXRDet and download models and datasets.
+Follow the aforementioned instructions to install environments and download models and datasets.
 
-[GETTING_STARTED.md](readme/GETTING_STARTED.md) provides a brief intro of the usage of builtin command-line tools in CXRDet.
+[GETTING_STARTED.md](readme/GETTING_STARTED.md) provides a brief intro of the usage of builtin command-line tools.
 
 ## License
 
