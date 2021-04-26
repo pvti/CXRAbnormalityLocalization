@@ -1,5 +1,5 @@
 # CXRDet
-> [**Chest X-ray abnormalities detection using convolutional neural network**](https://drive.google.com/drive/folders/1dNum1GOpYlmHObAR3JvAZqZjTQt1LxRT?usp=sharing),            
+> [**Chest X-ray abnormalities detection using convolutional neural network**](https://drive.google.com/drive/folders/1yylqLDt59O3vxGkRRzVQaaS0zut6Cdg9?usp=sharing),            
 > Van-Tien Pham, Minh-Cong Tran, Stanley Zheng, Tri-Minh Vu, Shantanu Nath;        
 
 ![](readme/proposedFramework.png)
