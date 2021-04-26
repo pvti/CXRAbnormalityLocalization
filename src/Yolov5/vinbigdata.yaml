@@ -1,0 +1,18 @@
+names:
+- Aortic enlargement
+- Atelectasis
+- Calcification
+- Cardiomegaly
+- Consolidation
+- ILD
+- Infiltration
+- Lung Opacity
+- Nodule/Mass
+- Other lesion
+- Pleural effusion
+- Pleural thickening
+- Pneumothorax
+- Pulmonary fibrosis
+nc: 14
+train: /home/tienpv/CXRDet/src/yolov5/train.txt
+val: /home/tienpv/CXRDet/src/yolov5/val.txt
