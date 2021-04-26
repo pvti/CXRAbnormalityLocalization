@@ -56,7 +56,7 @@ If you use this work in your research or wish to refer to the results, please us
 ```BibTeX
 @misc{tien2021d2dp,
   author =       {Van-Tien Pham and Minh-Cong Tran and Stanley Zheng and Tri-Minh Vu and Shantanu Nath},
-  title =        {Chest X-ray abnormalities detection using convolutional neural network},
+  title =        {Chest X-ray abnormalities localization using convolutional neural network},
   howpublished = {\url{https://github.com/pvtien96/CXRDet}},
   year =         {2021}
 }
