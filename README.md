@@ -1,4 +1,4 @@
-# CXRAbnormalityLocalization
+# CXRAbnormalityLocalization [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpvtien96%2FCXRAbnormalityLocalization&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpvtien96%2FCXRAbnormalityLocalization)
 > [**Chest X-ray abnormalities localization using convolutional neural network**](https://drive.google.com/drive/folders/1yylqLDt59O3vxGkRRzVQaaS0zut6Cdg9?usp=sharing),            
 > Van-Tien Pham, Minh-Cong Tran, Stanley Zheng, Tri-Minh Vu, Shantanu Nath;        
 
