@@ -28,8 +28,8 @@ preferred-citation:
     given-names: Tri-Minh
   - family-names: Nath
     given-names:  Shantanu
-    title: "Chest X-ray abnormalities localization via ensemble of deep convolutional neural networks"
-    journal: "2021 International Conference on Advanced Technologies for Communications (ATC)"
-    start: 125
-    end: 130
-    year: 2021
+  title: "Chest X-ray abnormalities localization via ensemble of deep convolutional neural networks"
+  journal: "2021 International Conference on Advanced Technologies for Communications (ATC)"
+  start: 125
+  end: 130
+  year: 2021
