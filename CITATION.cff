@@ -16,20 +16,20 @@ title: "Chest X-ray abnormalities localization via ensemble of deep convolutiona
 url: https://github.com/pvtien96/CXRAbnormalityLocalization
 preferred-citation:
   type: article
-authors:
-- family-names: Pham
-  given-names: Van-Tien
-  orcid: https://orcid.org/0000-0003-3890-7188
-- family-names: Tran
-  given-names: Cong-Minh
-- family-names: Zheng
-  given-names:  Stanley
-- family-names: Vu
-  given-names: Tri-Minh
-- family-names: Nath
-  given-names:  Shantanu
-  title: "Chest X-ray abnormalities localization via ensemble of deep convolutional neural networks"
-  journal: "2021 International Conference on Advanced Technologies for Communications (ATC)"
-  start: 125
-  end: 130
-  year: 2021
+  authors:
+  - family-names: Pham
+    given-names: Van-Tien
+    orcid: https://orcid.org/0000-0003-3890-7188
+  - family-names: Tran
+    given-names: Cong-Minh
+  - family-names: Zheng
+    given-names:  Stanley
+  - family-names: Vu
+    given-names: Tri-Minh
+  - family-names: Nath
+    given-names:  Shantanu
+    title: "Chest X-ray abnormalities localization via ensemble of deep convolutional neural networks"
+    journal: "2021 International Conference on Advanced Technologies for Communications (ATC)"
+    start: 125
+    end: 130
+    year: 2021
