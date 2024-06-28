@@ -1,8 +1,8 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpvtien96%2FCXRAbnormalityLocalization&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpvtien96%2FCXRAbnormalityLocalization)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpvti%2FCXRAbnormalityLocalization&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpvti%2FCXRAbnormalityLocalization)
 # 🫁 Chest X-ray abnormalities localization via ensemble of deep convolutional neural networks
 <div>
 <div align="center">
-    <a href='https://github.com/pvtien96' target='_blank'>Van-Tien Pham<sup>1&#x2709</sup></a>&emsp;
+    <a href='https://github.com/pvti' target='_blank'>Van-Tien Pham<sup>1&#x2709</sup></a>&emsp;
     <a href='https://www.linkedin.com/in/minhtc900/' target='_blank'>Cong-Minh Tran<sup>1</sup></a>&emsp;
     <a href='https://github.com/stanleyjzheng' target='_blank'>Stanley Zheng<sup>2</sup></a>&emsp;
     <a href='https://github.com/Minhvt34' target='_blank'>Tri-Minh Vu<sup>1</sup></a>&emsp;
